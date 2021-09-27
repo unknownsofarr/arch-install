@@ -9,3 +9,5 @@ facetime camera
         facetimehd-firmware
     reboot
 
+other
+https://gist.github.com/hdivine/0cfbd28bcf70fd4549c368f0e45d5344
