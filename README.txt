@@ -1,4 +1,4 @@
-# arch-install
+arch-install
 
 Connect Android Phone to Arch Linux
 https://linuxhint.com/connect-android-arch-linux/
